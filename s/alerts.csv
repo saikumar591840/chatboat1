@@ -1,0 +1,4 @@
+timestamp,type,sku,severity
+2025-06-21 16:03:26.071040,Low Stock,A123,High
+2025-06-21 15:03:26.071040,Mismatch,B456,Medium
+2025-06-21 14:03:26.071040,Out of Stock,C789,Critical
